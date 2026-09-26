@@ -86,4 +86,4 @@ key stays private.
   `validate_schema` helper (draft-07 + `FormatChecker`, path-qualified errors).
 - **ReqRes is a stateless mock** — writes don't persist, so tests assert the
   *contract shape* of the response, never a subsequent read; every test is
-  idempotent and re-runnable.
+  idempotent and re-runnable
