@@ -1,5 +1,11 @@
 # MIGx QA Challenge — ReqRes API Test Suite
 
+### Companion UI test suite (SauceDemo / playwright): https://github.com/Marionilla/MiGX
+
+---
+---
+
+
 Contract tests for the **ReqRes API** (<https://reqres.in/api>) built with
 **pytest + requests + jsonschema**. This is the API half of the MIGx QA
 Challenge; the UI half (SauceDemo / Playwright) lives in a separate repository.
